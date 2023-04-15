@@ -1,6 +1,6 @@
 # agron aliji  
 
 nji bio e shkurter
-## hoby:  
+ hoby:  
 
 fudball, skijim, codim.
